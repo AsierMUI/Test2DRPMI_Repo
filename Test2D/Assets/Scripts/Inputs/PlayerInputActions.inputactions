@@ -1,5 +1,5 @@
 {
-    "name": "PlayerInputMap",
+    "name": "PlayerInputActions",
     "maps": [
         {
             "name": "Gameplay",
@@ -25,17 +25,6 @@
                 }
             ],
             "bindings": [
-                {
-                    "name": "",
-                    "id": "0e065f42-ac56-4a72-b65b-cd6952b864de",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Movement",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
                 {
                     "name": "WASD",
                     "id": "a25ee610-5fd7-43ef-b642-18108c88fc81",
