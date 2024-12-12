@@ -6591,9 +6591,17 @@ PrefabInstance:
       propertyPath: m_GravityScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4557483206136254875, guid: a7a027c44bcd6ee4f8a4e24e9941e571, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6531984417323914460, guid: a7a027c44bcd6ee4f8a4e24e9941e571, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6742754385463251861, guid: a7a027c44bcd6ee4f8a4e24e9941e571, type: 3}
+      propertyPath: isGrounded
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8002655861931877096, guid: a7a027c44bcd6ee4f8a4e24e9941e571, type: 3}
       propertyPath: m_Material
